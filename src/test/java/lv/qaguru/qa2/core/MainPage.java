@@ -121,10 +121,4 @@ public class MainPage {
         return commentsCount;
     }
 
-
-
-
-
-    // Title, commentsTotal cnt, registered, anonim, url
-
 }
